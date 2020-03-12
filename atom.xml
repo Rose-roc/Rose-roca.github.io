@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>花心大萝卜</title>
+  
+  <subtitle>记录一个凡夫俗子的一生</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://rose-roc.github.io/"/>
+  <updated>2020-03-12T05:43:05.134Z</updated>
+  <id>https://rose-roc.github.io/</id>
+  
+  <author>
+    <name>Carrot</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于hexo和github的搭建个人博客教程</title>
+    <link href="https://rose-roc.github.io/2020/03/12/BuildABlog/"/>
+    <id>https://rose-roc.github.io/2020/03/12/BuildABlog/</id>
+    <published>2020-03-12T04:52:20.000Z</published>
+    <updated>2020-03-12T05:43:05.134Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;配置环境&quot;&gt;&lt;a href=&quot;#配置环境&quot; class=&quot;headerlink&quot; title=&quot;配置环境&quot;&gt;&lt;/a&gt;配置环境&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Node的安装&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://nodejs.org/en/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Node官方下载&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;进入node下载地址后，选择&lt;strong&gt;LTS&lt;/strong&gt;版本进行下载&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="https://rose-roc.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="个人" scheme="https://rose-roc.github.io/tags/%E4%B8%AA%E4%BA%BA/"/>
+    
+      <category term="学习" scheme="https://rose-roc.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="教程" scheme="https://rose-roc.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="hexo" scheme="https://rose-roc.github.io/tags/hexo/"/>
+    
+      <category term="github" scheme="https://rose-roc.github.io/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown的学习笔记</title>
+    <link href="https://rose-roc.github.io/2020/03/12/MarkdownStudy/"/>
+    <id>https://rose-roc.github.io/2020/03/12/MarkdownStudy/</id>
+    <published>2020-03-12T04:50:50.000Z</published>
+    <updated>2020-03-12T05:42:13.774Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Markdown的说明&quot;&gt;&lt;a href=&quot;#Markdown的说明&quot; class=&quot;headerlink&quot; title=&quot;Markdown的说明&quot;&gt;&lt;/a&gt;Markdown的说明&lt;/h2&gt;&lt;p&gt;Markdown是一种轻量型标记语言，是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;个人推荐使用Typora进行markdown的编辑，理由是，师姐推荐用的！！！&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="https://rose-roc.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="学习" scheme="https://rose-roc.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="教程" scheme="https://rose-roc.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="markdown" scheme="https://rose-roc.github.io/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对于博客在hexo的next主题下的简单使用</title>
+    <link href="https://rose-roc.github.io/2020/03/12/SipmleUse/"/>
+    <id>https://rose-roc.github.io/2020/03/12/SipmleUse/</id>
+    <published>2020-03-12T04:49:35.000Z</published>
+    <updated>2020-03-12T05:43:26.516Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;注：&lt;/strong&gt;当前文章在已经用hexo和github搭好的博客，以及next的主题优化的前提下进行&lt;/p&gt;
+&lt;h3 id=&quot;文章的创建&quot;&gt;&lt;a href=&quot;#文章的创建&quot; class=&quot;headerlink&quot; title=&quot;文章的创建&quot;&gt;&lt;/a&gt;文章的创建&lt;/h3&gt;&lt;p&gt;当我们突发奇想，或者遇到奇事想分享时，就可以在个人博客中发表文章，首先是要创建文章&lt;/p&gt;
+&lt;p&gt;在站点文件夹中打开 git bash，输入如下命令，其中&lt;code&gt;title&lt;/code&gt;是文章的标题&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://rose-roc.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="个人" scheme="https://rose-roc.github.io/tags/%E4%B8%AA%E4%BA%BA/"/>
+    
+      <category term="学习" scheme="https://rose-roc.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+</feed>
